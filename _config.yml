@@ -11,6 +11,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 email: mzsrtgzr2@gmail.com
+formspree: xknavlkz
 
 # Authors
 authors:
@@ -38,7 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-figure
+  # - jekyll-figure
     
 # Archives
 jekyll-archives:
