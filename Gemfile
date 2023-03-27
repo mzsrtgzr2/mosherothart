@@ -8,16 +8,18 @@ source "https://rubygems.org"
 #
 
 # If you have any plugins, put them here!
-gem "jekyll", "~> 3.9.3"
+# gem "jekyll", "~> 3.9.3"
 
-group :jekyll_plugins do
-    # gem 'jekyll-feed'
-    # gem 'jekyll-sitemap'
-    # gem 'jekyll-paginate'
-    # gem 'jekyll-seo-tag'
-    # gem 'jekyll-archives'
-    # gem 'jekyll-figure'
-    gem 'bootstrap'
-    gem 'kramdown-parser-gfm', '1.1.0'
-    # gem 'rouge'
-end
+# group :jekyll_plugins do
+#     # gem 'jekyll-feed'
+#     # gem 'jekyll-sitemap'
+#     # gem 'jekyll-paginate'
+#     # gem 'jekyll-seo-tag'
+#     # gem 'jekyll-archives'
+#     # gem 'jekyll-figure'
+#     # gem 'bootstrap'
+#     # gem 'kramdown-parser-gfm', '1.1.0'
+#     # gem 'rouge'
+# end
+gem "github-pages", group: :jekyll_plugins
+
