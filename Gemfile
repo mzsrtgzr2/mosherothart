@@ -18,6 +18,6 @@ group :jekyll_plugins do
     # gem 'jekyll-archives'
     # gem 'jekyll-figure'
     gem 'bootstrap'
-    # gem 'kramdown'
+    gem 'kramdown-parser-gfm', '1.1.0'
     # gem 'rouge'
 end
