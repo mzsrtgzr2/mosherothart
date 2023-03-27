@@ -17,7 +17,7 @@ group :jekyll_plugins do
     # gem 'jekyll-seo-tag'
     # gem 'jekyll-archives'
     # gem 'jekyll-figure'
-    # gem 'bootstrap'
+    gem 'bootstrap'
     gem 'kramdown-parser-gfm', '1.1.0'
     # gem 'rouge'
 end
