@@ -59,7 +59,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  jekyll (= 3.9.3)
+  jekyll (~> 3.9.3)
   kramdown-parser-gfm (= 1.1.0)
 
 BUNDLED WITH
