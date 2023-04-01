@@ -2,6 +2,7 @@
 name: "MosheRothArt"
 title: "Moshe Roth Art"
 description: "Plein Air Art in Israel"
+repository:  mzsrtgzr2/mosherothart
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
