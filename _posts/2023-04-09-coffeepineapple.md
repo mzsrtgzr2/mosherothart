@@ -7,4 +7,4 @@ beforetoc: "Platte with coffee finjan, glasses and pineapple"
 toc: true
 ---
 canvas acrylics painting 
-![alt text](assets/images/WhatsApp Image 2023-04-08 at 21.38.27.jpeg)
+<img class="lazyimg" src="{{ site.baseurl }}/assets/images/WhatsApp Image 2023-04-08 at 21.38.27.jpeg"/>
