@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pineappled coffee"
+title:  "La Finjan"
 categories: [ Studio ]
 image: assets/images/WhatsApp Image 2023-04-08 at 21.38.11.jpeg
 beforetoc: "Platte with coffee finjan, glasses and pineapple"
