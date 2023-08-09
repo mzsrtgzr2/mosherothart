@@ -1,0 +1,5 @@
+click
+# also  - brew install libtiff libjpeg webp little-cms2
+pillow
+# also  - brew install tcl-tk
+
