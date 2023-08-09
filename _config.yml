@@ -13,6 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 email: mzsrtgzr2@gmail.com
 formspree: xknavlkz
+future: true
 
 # Authors
 authors:
