@@ -7,4 +7,4 @@ beforetoc: "Sketches + Big work"
 toc: true
 ---
 
-canvas acrylics painting
+Studio work of Plein air in Palmahim 

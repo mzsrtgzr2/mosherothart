@@ -14,7 +14,7 @@ def create_post(title, image_description, image_path):
     post_filename = f"{today}-{title.lower().replace(' ', '')}.md"
     post_path = os.path.join(POSTS_DIR, post_filename)
     with open(post_path, "w") as post_file:
-        post_file.write(f"---\nlayout: post\ntitle:  \"{title}\"\ncategories: [ PleinAir ]\nimage: {os.path.join(IMAGES_DIR, os.path.basename(image_path))}\nbeforetoc: \"{image_description}\"\ntoc: true\n---\n\ncanvas acrylics painting")
+        post_file.write(f"---\nlayout: post\ntitle:  \"{title}\"\ncategories: [ PleinAir ]\nimage: {os.path.join(IMAGES_DIR, os.path.basename(image_path))}\nbeforetoc: \"{image_description}\"\ntoc: true\n---\n\n{image_description}")
 
     # copy image to assets/images directory
     shutil.copy(image_path, os.path.join(IMAGES_DIR, os.path.basename(image_path)))

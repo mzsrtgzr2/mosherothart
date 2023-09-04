@@ -7,4 +7,4 @@ beforetoc: "With pastels"
 toc: true
 ---
 
-canvas acrylics painting
+pastels painting of a candle light
